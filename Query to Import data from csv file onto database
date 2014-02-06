@@ -1,0 +1,1 @@
+LOAD DATA LOCAL INFILE '/Users/srayan/Desktop/January.csv' INTO TABLE january FIELDS TERMINATED BY ',' LINES TERMINATED BY '\r';
